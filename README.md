@@ -1,5 +1,3 @@
-Sistema 13: TourSystem (Sistema de gestión para turismo)
-Este sistema administra una operadora turística, destinos, paquetes, alojamientos, transportes, guías y reservas.
 
 Profe como dijiste subimos todo el Script , los insert y por ultimo los procedimiento y las vistas en el README
 
