@@ -1,7 +1,7 @@
 
 Profe como dijiste subimos todo el Script , los insert y por ultimo los procedimiento y las vistas en el README
 
-
+TODO EL EJERCICIO FUE HECHO EN MYSQLWORKBENCH POR SI HAY ERRORES DE SYNTAXIS PARA LOS DELIMITER
 /* 
    Ejecutar EN ORDER ya que las tablas fueron creadas ya con sus llaves foraneas y relaciones incluyendo CONSTRAINT
    para no utilizar el ALTER y no hacer el codigo mas largo o complejo
